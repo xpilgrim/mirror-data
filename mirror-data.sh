@@ -9,9 +9,9 @@
 
 # config for mirror
 # log directories
-path_log="/home/myname/myapps/mirror-data/log/"
+path_log="/home/myname/mirror-data/log/"
 # logfile, full path for correct writing with cron
-path_file_log="/home/myname/myapps/mirror-data/log/mirror-data.log"
+path_file_log="/home/myname/mirror-data/log/mirror-data.log"
 # source folders
 # sourchpaths array items, don't forget the numbering
 a_sourcepath[0]="/home/myname/mydata0"
